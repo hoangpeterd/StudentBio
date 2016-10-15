@@ -1,0 +1,32 @@
+.container {
+	text-orientation: center;
+	width: 1024;
+}
+
+#main-bio
+
+#contact-info
+
+#bio-image
+
+body {
+	background-color: #d21034;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-color: #333333;
+	margin: 0;
+	padding: 0;
+}
+
+head {
+	background-color: #d21034;
+}
+
+h1 {
+	background-color: #333333;
+	font-color:;
+	font-size: 28px;
+}
+
+h2 {
+
+}
